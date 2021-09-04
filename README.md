@@ -4,4 +4,4 @@
 - Run `./toolkit.sh`
 
 ## Functionality
-- Enablin auto optimization for your Linux Machines
+- Enabling auto optimization for your Linux Machine.
